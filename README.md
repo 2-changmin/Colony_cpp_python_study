@@ -1,4 +1,4 @@
-# Colony club conducted cpp study
+# Colony club conducted cpp and python study
 ### educator : Lee Chang Min, Yoon Seung hee
 
 * first class
