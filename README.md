@@ -1,4 +1,4 @@
-# Colony 동아리에서 cpp 스터디를 진행함
-#### 진행자 : 이창민, 윤승희
+# Colony club conducted cpp study
+### educator : Lee Chang Min, Yoon Seung hee
 
-* 첫 번째 수업
+* first class
